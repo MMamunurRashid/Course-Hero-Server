@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "price": "3500",
+    "picture": "https://edurev.gumlet.io/AllImages/original/ApplicationImages/CourseImages/27ddebfb-99cc-4a54-991c-74706241a3b6_CI.png",
+    "name": "Theory of Computation",
+    "details": "Theory of computation (TOC) is a branch of Computer Science that is concerned with how problems can be solved using algorithms and how efficiently they can be solved.The essence of the theory of computation is to help develop mathematical and logical models that run efficiently and to the point of halting. Since all machines that implement logic apply TOC, studying TOC gives learners an insight into computer hardware and software limitations."
+  },
+  {
+    "id": "2",
+    "price": "3500",
+    "picture": "https://edurev.gumlet.io/AllImages/original/ApplicationImages/CourseFeatureImage/24f09887-9bea-45d8-b7ac-2884efeb1e30_CF.png?w=200&dpr=2.6",
+    "name": "Compiler Design",
+    "details": "Learning compiler design techniques for large projects help you develop special-purpose languages that make the project easy to implement. Studying compilers enables you to design and implement your domain-specific language. Learning compilers gives you theoretical and practical knowledge to implement a programming language.A study of compiler design teaches you how a large problem can be broken down and solved in a structured manner. Understanding compilers and how they work makes it simple for you to debug, simulate and create 3D applications and browsers. The study of compiler design also provides a gentle introduction to formal methods.Learning compilers offer a good opportunity to get experience with developing a larger piece of software."
+  },
+  {
+    "id": "3",
+    "price": "3500",
+    "picture": "https://www.excellentassignmenthelp.com.au/wp-content/uploads/ICT103-Systems-Analysis-Design.jpg",
+    "name": "System Analysis and Design",
+    "details": "System analysis and design is a process that many companies use to evaluate particular business situations and develop ways to improve them through more optimal methods. Companies may use this process to reshape their organization or meet business objectives related to growth and profitability. System analysis and design also typically emphasize how systems act, their relationships to other subsystems and the ability of both to meet a specific goal. This often involves analyzing a system's performance and the quality of its output. "
+  },
+  {
+    "id": "4",
+    "price": "3500",
+    "picture": "https://contentstatic.techgig.com/photo/90325682.cms",
+    "name": "Programming In C",
+    "details": "It helps you understand how a computer works By learning C, you can be able to understand and visualize the inner workings of computer systems. This can include aspects like allocation and memory management along with their architecture and the overall concepts that drive programming. As a programming language, C also allows you to write more complex and comprehensive programs. When you understand how a computer works, you can better design applications and sites to optimize user experience."
+  },
+  {
+    "id": "5",
+    "price": "3500",
+    "picture": "https://yourstelecast.com/wp-content/uploads/2021/09/where-to-get-c-programming-help-at-a-reasonable-price.png",
+    "name": "Programming In C++",
+    "details": "C++ programming language is almost everywhere around the world. For example, it is used for making browsers, applications, and software. Also, C++ is used majorly to make operating systems, and almost all operating systems are built using C++, for example, Mac Os, Windows, Linux, etc"
+  },
+  {
+    "id": "6",
+    "price": "3500",
+    "picture": "https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png",
+    "name": "Visual Programming in C#",
+    "details": "C# is designed to be a high-level language. This means it takes care of a lot of the code you would have to write in other languages like Java and C++. Plus, it provides you with libraries that make writing code quicker and easier. C# is in demand. Thousands of enterprises use Microsoft technologies in their infrastructure, and even when they don't, C# is still a popular language for creating web services. C# is now open-source and cross-platform. When it first came out, C# was designed specifically for Windows, but now you can also run C# on the Mac OSX and Linux operating systems. C# is relatively easy to learn. Since it omits many of the complex tasks in programming, a programmer doesn't have to worry about these potential issues ahead of time and can just start coding. C# is fast. Because it’s a statically typed language, it’s easier to make fast code, and it can tackle larger tasks more efficiently. In other words, you can write high-performance apps in C# at a relatively fast speed."
+  },
+  {
+    "id": "7",
+    "price": "3500",
+    "picture": "https://5.imimg.com/data5/QQ/CT/AO/GLADMIN-25397883/selection-064-500x500.png",
+    "name": "Programming in Java",
+    "details": "Java is very versatile as it is used for programming applications on the web, mobile, desktop, etc. using different platforms. Also, Java has many features such as dynamic coding, multiple security features, platform-independent characteristics, network-centric designing, etc. that make it quite versatile."
+  },
+  {
+    "id": "8",
+    "price": "3500",
+    "picture": "https://miro.medium.com/max/700/0*pPgqu6f2zz76HrQE.jpg",
+    "name": "Computer Architecture",
+    "details": "The subject explores how machines are designed, built, and operate. Knowing what's inside and how it works will help you design, develop, and implement applications better, faster, cheaper, more efficient, and easier to use because you will be able to make informed decisions instead of guestimating and assuming."
+  },
+  {
+    "id": "9",
+    "price": "3500",
+    "picture": "https://funxim.net/wp-content/uploads/2021/11/types-of-operating-system.jpg",
+    "name": "Operating System",
+    "details": "An operating system is the most important software that runs on a computer. It manages the computer's memory and processes, as well as all of its software and hardware. It also allows you to communicate with the computer without knowing how to speak the computer's language."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "price": "3500",
+    "picture": "https://edurev.gumlet.io/AllImages/original/ApplicationImages/CourseImages/27ddebfb-99cc-4a54-991c-74706241a3b6_CI.png",
+    "name": "Theory of Computation"
+  },
+  {
+    "id": "2",
+    "price": "3500",
+    "picture": "https://edurev.gumlet.io/AllImages/original/ApplicationImages/CourseFeatureImage/24f09887-9bea-45d8-b7ac-2884efeb1e30_CF.png?w=200&dpr=2.6",
+    "name": "Compiler Design"
+  },
+  {
+    "id": "3",
+    "price": "3500",
+    "picture": "https://www.excellentassignmenthelp.com.au/wp-content/uploads/ICT103-Systems-Analysis-Design.jpg",
+    "name": "System Analysis and Design"
+  },
+  {
+    "id": "4",
+    "price": "3500",
+    "picture": "https://contentstatic.techgig.com/photo/90325682.cms",
+    "name": "Programming In C"
+  },
+  {
+    "id": "5",
+    "price": "3500",
+    "picture": "https://yourstelecast.com/wp-content/uploads/2021/09/where-to-get-c-programming-help-at-a-reasonable-price.png",
+    "name": "Programming In C++"
+  },
+  {
+    "id": "6",
+    "price": "3500",
+    "picture": "https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png",
+    "name": "C#"
+  },
+  {
+    "id": "7",
+    "price": "3500",
+    "picture": "https://5.imimg.com/data5/QQ/CT/AO/GLADMIN-25397883/selection-064-500x500.png",
+    "name": "Java"
+  },
+  {
+    "id": "8",
+    "price": "3500",
+    "picture": "https://miro.medium.com/max/700/0*pPgqu6f2zz76HrQE.jpg",
+    "name": "Computer Architecture"
+  },
+  {
+    "id": "9",
+    "price": "3500",
+    "picture": "https://funxim.net/wp-content/uploads/2021/11/types-of-operating-system.jpg",
+    "name": "Operating System"
+  }
+]
